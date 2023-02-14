@@ -102,7 +102,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jumpForce: 15
-  graviyModifter: 2
+  graviyModifter: 1.5
   isOnGround: 1
   gameOver: 0
 --- !u!1 &100004

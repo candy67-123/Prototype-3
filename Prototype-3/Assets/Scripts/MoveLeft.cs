@@ -6,7 +6,7 @@ public class MoveLeft : MonoBehaviour
 {
     private float speed = 30;
     private PlayerController playerControllerScript;
-    private float leftBound = -15;
+    private float leftBound = -5;
 
     // Start is called before the first frame update
     void Start()
